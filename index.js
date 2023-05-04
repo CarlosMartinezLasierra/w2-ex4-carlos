@@ -1,0 +1,4 @@
+const guessVocals = () => {
+let word =
+
+}
