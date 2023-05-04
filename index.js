@@ -1,4 +1,0 @@
-const guessVocals = () => {
-let word =
-
-}
